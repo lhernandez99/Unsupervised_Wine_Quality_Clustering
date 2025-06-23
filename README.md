@@ -1,4 +1,3 @@
-# Unsupervised_Wine_Quality_Clustering
 # Unsupervised Wine Quality Clustering
 
 This project applies unsupervised learning to the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) to explore patterns in physicochemical properties and identify natural groupings of wine samples.
