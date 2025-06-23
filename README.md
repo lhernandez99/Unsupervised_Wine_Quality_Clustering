@@ -19,9 +19,9 @@ The goal is to use clustering techniques to segment wines based on chemical feat
 - DBSCAN also evaluated for density-based clustering.
 - Clustering results visualized in 2D using PCA.
 
-## 📁 Files Included
+## Files Included
 - `Unsupervised_Wine_Quality_Clustering.ipynb`: The main notebook
 - `winequality-red.csv`: Dataset used
 
-## 🔗 Dataset Source
+## Dataset Source
 [UCI Machine Learning Repository – Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
